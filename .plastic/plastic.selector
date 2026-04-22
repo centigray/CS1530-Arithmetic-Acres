@@ -1,0 +1,4 @@
+repository "Arithmetic Farms Project/CS1530 Arithmetic Acres@2475929343236@cloud"
+  path "/"
+    br "/main"
+    co "/main"
