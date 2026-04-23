@@ -2,6 +2,9 @@ using UnityEngine;
 
 public class MathProblemGeneration : MonoBehaviour
 {
+    public Tier t = Tier.AdditionSubtraction;
+    public MathProblem prob;
+
     public enum Tier
     {
         AdditionSubtraction,

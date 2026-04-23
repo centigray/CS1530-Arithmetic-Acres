@@ -22,5 +22,5 @@ public class Collectable : MonoBehaviour
 }
 public enum CollectableType
     {
-        NONE, CARROT_SEED, TOMATO_SEED, BROCCOLI_SEED
+        NONE, CARROT_SEED, PUMPKIN_SEED, CABBAGE_SEED, CARROT, SPROUT, FAT_SPROUT, YELLOW, PUMPKIN, GREEN_PUMPKIN
     }

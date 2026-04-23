@@ -12,7 +12,7 @@ public class Inventory_UI : MonoBehaviour
         Refresh();
     }
 
-    void Refresh()
+    public void Refresh()
     {
         //if(slots.Count == player.inventory.slots.Count)
         //{
